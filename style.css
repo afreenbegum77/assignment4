@@ -1,0 +1,444 @@
+body{
+    margin: 0%;}
+.container{
+    height: 800px;
+    width: 800px;
+    border: 20px solid;
+    border-color: rgba(231, 136, 47, 0.856);
+    
+    
+}
+
+
+.black1{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    float:left;
+}  
+.white1{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    float:left;
+}  
+   
+.black2{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    
+float:left;
+    
+}
+.white2{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    float: left;
+}   
+.black3{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    
+float:left;
+    
+}
+.white3{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    float:left;
+}  
+   
+.black4{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    float:left;
+
+
+}
+.white4{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    float:left;
+}
+.white5{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    float:left;
+}
+.black5
+{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+   float:left;
+}
+.white6{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    float:left;
+}
+.black6
+{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+   float:left;
+}
+.white7{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    float:left;
+}
+.black7
+{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+   float:left;
+}
+.white8{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    float:left;
+}
+.black8
+{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+   float:left;
+}
+.black9{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    float:left;
+}  
+.white9{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    float:left;
+}  
+   
+.black10{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    
+float:left;
+    
+}
+.white10{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    float: left;
+}   
+.black11{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    
+float:left;
+    
+}
+.white11{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    float:left;
+}  
+   
+.black12{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    float:left;
+
+
+}
+.white12{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    float:left;
+}
+.white13{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    float:left;
+}
+.black13
+{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+   float:left;
+}
+.white14{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    float:left;
+}
+.black14
+{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+   float:left;
+}
+.white15{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    float:left;
+}
+.black15
+{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+   float:left;
+}
+.white16{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    float:left;
+}
+.black16
+{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+   float:left;
+}
+.black17{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    float:left;
+}  
+.white17{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    float:left;
+}  
+   
+.black18{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    
+float:left;
+    
+}
+.white18{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    float: left;
+}   
+.black19{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    
+float:left;
+    
+}
+.white19{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    float:left;
+}  
+   
+.black20{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    float:left;
+
+
+}
+.white20{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    float:left;
+}
+.white21{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    float:left;
+}
+.black21
+{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+   float:left;
+}
+.white22{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    float:left;
+}
+.black22
+{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+   float:left;
+}
+.white23{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    float:left;
+}
+.black23
+{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+   float:left;
+}
+.white24{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    float:left;
+}
+.black24
+{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+   float:left;
+}
+.black25{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    float:left;
+}  
+.white25{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    float:left;
+}  
+   
+.black26{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    
+float:left;
+    
+}
+.white26{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    float: left;
+}   
+.black27{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    
+float:left;
+    
+}
+.white27{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    float:left;
+}  
+   
+.black28{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    float:left;
+
+
+}
+.white28{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    float:left;
+}
+.white29{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    float:left;
+}
+.black29
+{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+   float:left;
+}
+.white30{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    float:left;
+}
+.black30
+{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+   float:left;
+}
+.white31{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    float:left;
+}
+.black31
+{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+   float:left;
+}
+.white32{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    float:left;
+}
+.black32
+{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+   float:left;
+}
